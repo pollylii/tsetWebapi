@@ -1,0 +1,15 @@
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\bin\Debug\net6.0\Interface.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\bin\Debug\net6.0\Interface.pdb
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\bin\Debug\net6.0\Model.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\bin\Debug\net6.0\Model.pdb
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.csproj.CopyComplete
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\Interface.pdb
+D:\polly\front_end\C#Vue3\test\tsetWebapi\Interface\obj\Debug\net6.0\ref\Interface.dll

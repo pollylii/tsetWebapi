@@ -212,3 +212,10 @@ D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\obj\Debug\net6.0\refint\W
 D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\obj\Debug\net6.0\WebAppi_Test.pdb
 D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\obj\Debug\net6.0\WebAppi_Test.genruntimeconfig.cache
 D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\obj\Debug\net6.0\ref\WebAppi_Test.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Interface.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Service.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Interface.pdb
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Service.pdb
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Common.dll
+D:\polly\front_end\C#Vue3\test\tsetWebapi\WebAppi_Test\bin\Debug\net6.0\Common.pdb
